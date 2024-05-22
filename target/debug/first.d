@@ -1,1 +1,1 @@
-/home/johnadi/Desktop/other-projects/rust-programming/first/target/debug/first: /home/johnadi/Desktop/other-projects/rust-programming/first/src/main.rs
+/home/johnadi/Desktop/other-projects/rust-programming/rust-guessing-game/target/debug/first: /home/johnadi/Desktop/other-projects/rust-programming/rust-guessing-game/src/main.rs
